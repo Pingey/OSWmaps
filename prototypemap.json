@@ -1,9 +1,0 @@
-{
-    "backgroundImage": "path/to/background.jpg",
-    "music": "",
-    "backgroundColor": "#000",
-    "areas": [
-    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "path/to/room1.html", "isRoom": true },
-        // Add more areas as needed
-    ]
-}
