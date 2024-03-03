@@ -3,7 +3,7 @@
     "music": "",
     "backgroundColor": "#000",
     "areas": [
-    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap2.json", "isRoom": true },
+    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap2.json", "isRoom": true }
         
     ]
 }
