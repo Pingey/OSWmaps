@@ -1,10 +1,30 @@
 {
-    "backgroundImage": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/assets/prototypemap1.png",
-    "music": "",
-    "backgroundColor": "#000",
-    "title": "Prototype Map #1",
-    "areas": [
-    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap2.json", "isRoom": true }
-        
-    ]
+  "backgroundImage": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/assets/prototypemap1.png",
+  "music": "",
+  "backgroundColor": "#999",
+  "title": "Prototype Map #1",
+  "areas": [
+    {
+      "shape": "rect",
+      "coords": [
+        360,
+        22,
+        585,
+        117
+      ],
+      "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap2.json",
+      "isRoom": true
+    },
+    {
+      "shape": "rect",
+      "coords": [
+        152,
+        155,
+        396,
+        447
+      ],
+      "href": "https://google.com/",
+      "isRoom": false
+    }
+  ]
 }
