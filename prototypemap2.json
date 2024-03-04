@@ -1,8 +1,8 @@
 {
     "backgroundImage": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/assets/prototypemap2.png",
     "music": "",
-    "backgroundColor": "#000",
-    "title": "Prototype Map #1",
+    "backgroundColor": "#999",
+    "title": "Prototype Map #2",
     "areas": [
     { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap1.json", "isRoom": true }
         
