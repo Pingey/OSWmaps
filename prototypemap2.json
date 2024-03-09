@@ -1,10 +1,10 @@
 {
-    "backgroundImage": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/assets/prototypemap2.png",
+    "backgroundImage": "https://pingey.github.io/OSWmaps/assets/prototypemap2.png",
     "music": "",
     "backgroundColor": "#666",
     "title": "Prototype Map #2",
     "areas": [
-    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://raw.githubusercontent.com/Pingey/OSWmaps/main/prototypemap1.json", "isRoom": true }
+    { "shape": "rect", "coords": [10, 10, 100, 100], "href": "https://pingey.github.io/OSWmaps/prototypemap1.json", "isRoom": true }
         
     ]
 }
